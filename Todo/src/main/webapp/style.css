@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+
+body {
+	
+	background: #D9E3EC;
+}
+
+
+.nav {
+	
+	border-bottom: 2px solid #A6BDDF;
+	display: flex; 
+	flex-direction: row; 
+	justify-content:flex-end;
+}
+
+
+.todoBox {
+	
+	border: 2px solid grey; 
+	margin: 30px 20px; 
+	padding: 0 10px 10px 10px; 
+	background: #FAFBC4
+}
+
+
+.todo {
+	display: flex;
+	align-items: center;
+}
